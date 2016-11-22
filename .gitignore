@@ -1,3 +1,9 @@
+.DS_Store
+names/American/*.json
+names/British/*.json
+percentages/*.csv
+percentages/*.json
+
 # Logs
 logs
 *.log

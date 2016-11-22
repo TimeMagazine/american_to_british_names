@@ -1,0 +1,26 @@
+{
+  "name": "american_to_british_names",
+  "version": "0.0.0",
+  "description": "The code and methodology for determining the across-the-pond equivalent of American and British names.",
+  "main": "match_names.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wilson428/american_to_british_names.git"
+  },
+  "keywords": [
+    "baby",
+    "names"
+  ],
+  "author": "Chris Wilson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wilson428/american_to_british_names/issues"
+  },
+  "homepage": "https://github.com/wilson428/american_to_british_names#readme",
+  "dependencies": {
+    "d3": "^4.3.0"
+  }
+}
