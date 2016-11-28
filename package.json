@@ -21,6 +21,8 @@
   },
   "homepage": "https://github.com/wilson428/american_to_british_names#readme",
   "dependencies": {
-    "d3": "^4.3.0"
+    "d3": "^4.3.0",
+    "minimist": "^1.2.0",
+    "progress": "^1.1.8"
   }
 }

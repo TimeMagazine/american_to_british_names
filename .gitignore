@@ -3,6 +3,8 @@ names/American/*.json
 names/British/*.json
 percentages/*.csv
 percentages/*.json
+roster*
+results*
 
 # Logs
 logs
